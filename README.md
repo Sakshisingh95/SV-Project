@@ -1,4 +1,4 @@
 # SV-Project
 Rust Verification
 
-# Team: Kavita and Sakshi 
+Team: Kavita and Sakshi 
